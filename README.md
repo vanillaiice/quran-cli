@@ -7,6 +7,9 @@ Read the Holy Quran from your terminal.
 ```sh
 $ go install github.com/vanillaiice/quran-cli@latest
 ```
+# Demo
+
+https://github.com/vanillaiice/quran-cli/assets/120596571/b2a9ab2c-cd67-44d7-b2aa-29aa8f4c2202
 
 # Example Usage
 
