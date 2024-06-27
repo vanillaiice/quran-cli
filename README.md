@@ -61,6 +61,15 @@ GLOBAL OPTIONS:
    --version, -v                print the version
 ```
 
+# Misc
+
+- Please make sure to have the proper arabic [fonts](https://wiki.archlinux.org/title/Localization/Arabic#Fonts) installed on your system (if you plan to read in arabic).
+- If the terminal screen is too small, some of the text might not be displayed correctly.
+
+# Todo
+
+- Add more styling to the current display.
+
 # License
 
 This project is licensed under the GPLv3 License.
