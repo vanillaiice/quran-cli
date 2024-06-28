@@ -70,6 +70,11 @@ GLOBAL OPTIONS:
 
 - Add more styling to the current display.
 
+# Acknowledgements
+
+- The Quran JSON files are sourced from [risan/quran-json](https://github.com/risan/quran-json), which are in turn taken from [tanzil.net](https://tanzil.net/trans/en.transliteration)
+- The different terminal UI styles use [tview](https://github.com/rivo/tview), and [termenv](https://github.com/muesli/termenv).
+
 # License
 
 This project is licensed under the GPLv3 License.
